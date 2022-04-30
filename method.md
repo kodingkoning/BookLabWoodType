@@ -19,6 +19,7 @@ The goal of this section is to explain what work we did to create the letters. I
     - used multiple runs until the cuts were deep enough
 - Specs for count of letters: https://www.virginwoodtype.com/specs/
     - only made capital letters. Used 3A specs
+    - downloaded font at: https://www.wfonts.com/font/digi-grotesk-bold-condensed
 - include the printing process
 - include images from cutting the wood
 
