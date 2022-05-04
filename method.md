@@ -10,7 +10,7 @@ After cutting to size, we applied a coat of Shellac before laser cutter.
 
 We used 108 pt (9 pica) font in Inkscape to create each of the PDFs we sent to the laser cutter. Each of the Inkscape files was 1.5" by 6.25". We downloaded the Digi Grotesk Bold Condensed font from [Wfonts](https://www.wfonts.com/font/digi-grotesk-bold-condensed). We made only the capital letters. For the letter counts, we used [Virgin Wood Type's 3A specs](https://www.virginwoodtype.com/specs/).
 
-We used the TROTEC Speedy 400 flexx laser cutter in the Siebel Center for Design. We did 9 iterations for each letter block. It ran at 50% power and 50% speed and 500 Hertz. Each block took about 17.5 minutes to cut.
+We used the TROTEC Speedy 400 flexx laser cutter in the Siebel Center for Design. We did 9 iterations for each letter block. It ran at 50% power and 50% speed and 500 Hertz with the CO2 cut method. Each block took about 17.5 minutes to cut.
 
 We then used a combination of the miter saw and the table saw to cut between the letters, after chiseling any excess wood away. We initially used the miter saw, until we needed to cut between a single pair of letters and the block was too small for the tool.
 
