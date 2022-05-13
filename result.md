@@ -1,6 +1,5 @@
 # Results
 
-------- 
 
 We produced [108 woodblock letters](media/blocks.jpg). While these letters were uniform in height, they varied in width. Due to technical limitations, we did not take kerning into consideration as we cut our blocks of wood into letters. That being said, there is only slight variations in width between letters. As we've moved into printing, we are unable to notice significant variation in width.
 

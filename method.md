@@ -1,6 +1,5 @@
 # Method
 
--------
 
 We used a soft maple wood. We purchased a 7.2 bdft board from [CU Woodshop](https://www.cuwoodshop.com/). It was 1.5" deep and about 6.5" wide.
 

@@ -1,6 +1,5 @@
 # Conclusion
 
---------
 
 We learned a lot from this experiment in the construction of woodblock type. For the low price of about $50.00, we were able to purchase, mill, and cut a set of font for production on a letter press. Ultimately, we have enough raw wood blocks to create two or three more full sets of fonts from that initial $50.00 purchase. When comparing this output to either purchasing a historic or [new set of workblock type online](https://www.virginwoodtype.com/shop/) or creating a set via a 3D printer, the cost savings are enormous.
 
