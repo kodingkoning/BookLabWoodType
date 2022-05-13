@@ -1,5 +1,7 @@
 # Method
 
+-------
+
 We used a soft maple wood. We purchased a 7.2 bdft board from [CU Woodshop](https://www.cuwoodshop.com/). It was 1.5" deep and about 6.5" wide.
 
 With the assistance of Michael Dalton, a designer at the University of Illinois' [Siebel Center for Design (SCD)](https://designcenter.illinois.edu/), we used a joiner to minimize the impact of the warping and allow an even edge for the table saw.
