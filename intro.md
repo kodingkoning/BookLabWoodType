@@ -11,11 +11,3 @@ We also recognize that purchasing woodblock type, whether new or historical, can
 
 We chose as [Digi Grotesk](https://www.linotype.com/332/digi-grotesk-family.html) as our font. This is an early digital typeface that was derived from the late 19th-century [Akzidenz-Grotesk](https://en.wikipedia.org/wiki/Akzidenz-Grotesk). Digi Grotesk was one of the fonts developed on Rudolf Hell's [Digiset Machine](https://www.hell-kiel.de/en/hell-development/typesetting-technology/digiset) in the [late 1960s](media/digigrotesk.png) (See page Page 8 of [Digiset 50T1 Prospekt Manual](media/Digiset_50_T1_Prospekt_1969_03.pdf)). Existing in the space between traditional and computational, Hell's Digiset was one of the first machines to allow for digital typesetting. While it is beyond the scope of this project, the Digiset tied to a digital phototypesetting typesetting revolution and was rebranded as RCA's Videocomp in the United States.  The rights for this font are currently held by the Linotype Company. 
 
-## Outline:
-
-- Our goal in this project is to make a set of woodblock type for the printing presses
-- Woodblock type is very expensive, whether it is used on Ebay or purchased new from the few places whrere they still make it.
-- Our woodblocks will mostly be used for poster making
-- Readings that reference woodblocks:
-    - Werner text: 65-66 gives a description of what a woodblock is. 88-89 describes initial letters as woodblocks
-
